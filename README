@@ -1,0 +1,19 @@
+#FAKEPINTEREST
+
+link: https://fakepinterest-qdwe.onrender.com/
+
+O projeto é um site parecido com o Pinterest!
+
+Linguagem usada: Python
+
+Framework: Flask
+
+Foi usada a biblioteca de autenticação "bcrypt" para o login e criação de conta.
+
+## Requisitos
+
+Instalar o Python em seu computador(versão usada no dia que fiz o projeto: 3.11.5)
+
+Baixar as bibliotecas usadas no projeto (executa o comando no terminal: pip install -r requirements.txt)
+
+Após instalar todas as bibliotecas, executar o arquivo "main.py"
